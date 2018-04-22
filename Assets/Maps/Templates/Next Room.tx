@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object name="Next Room" width="43.25" height="18">
+  <properties>
+   <property name="unity:isTrigger" type="bool" value="true"/>
+  </properties>
+ </object>
+</template>
